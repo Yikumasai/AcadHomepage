@@ -38,7 +38,3 @@ Interested in the direction of lasers, optical communications, screen displays, 
 <br>
 
 * * *
-
-
-CDN：[又拍云](https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral)
-<img src="/images/又拍云_logo1.png" alt="又拍云.png">
