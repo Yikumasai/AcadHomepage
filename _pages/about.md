@@ -18,7 +18,7 @@ Interested in the direction of lasers, optical communications, screen displays, 
 <br>Achievement: Obtain an interferometric image of the anti-shock and calculate the object surface position information from the interferogram.
 # 🎖 Honors and Awards
 - *2022.12* Merit Student at Nanjing University of Information Science and Technology
-- *2022.11* [Second Prize in The 19th Higher Mathematics Competition for Jiangsu Higher Education Institutions](https://lkl-shanghai.obs.cn-east-3.myhuaweicloud.com/%E8%AF%81%E4%B9%A6/%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%B1%8A%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E4%BA%8C%E7%AD%89%E5%A5%96.png)
+- *2022.11* [Second Prize in The 19th Higher Mathematics Competition for Jiangsu Higher Education Institutions](https://p3-sign.douyinpic.com/tos-cn-i-p14lwwcsbr/1051e1b08952429c9fc57a1d25ec8dbc~tplv-p14lwwcsbr-7.image?x-expires=1711436400&x-signature=KNWVR3QdLmso6nXlS1GLTgtJReo%3D&from=2064092626&se=false&sc=image&biz_tag=aweme_comment&l=20240326091927939CF237C55C164765BB)
 - *2022.11*	[National Encouragement Scholarship](/images/2022国家励志奖学金.png)
 - *2022.05*	Second Prize of Heng Yu Cup-Metallographic Skills Competition for College Students at Nanjing University of Information Science and Technology
 - *2021.12*	Merit Student at Nanjing University of Information Science and Technology
@@ -28,7 +28,7 @@ Interested in the direction of lasers, optical communications, screen displays, 
 # 📖 Educations
 - *2020.06 - 2024.09 (now)*, Undergraduate of Nanjing University of Information Science and Technology.
 # 🖇️ Others
-- [Alibaba Cloud Certified-ACA](https://lkl-shanghai.oss-cn-shanghai.aliyuncs.com/%E8%AF%81%E4%B9%A6/%E9%98%BF%E9%87%8C%E4%BA%91ACA%E8%AF%81%E4%B9%A6%EF%BC%88%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83IT%E5%88%9D%E7%BA%A7%E8%BF%90%E7%BB%B4%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.png) Technical service-L2
+- [Alibaba Cloud Certified-ACA](https://p3-sign.douyinpic.com/tos-cn-i-p14lwwcsbr/293488d2fb304bd58e011ed17c90c901~tplv-p14lwwcsbr-7.image?x-expires=1711436400&x-signature=CvQRV%2FK2PpNEqjqgV9RY5cKG874%3D&from=2064092626&se=false&sc=image&biz_tag=aweme_comment&l=20240326091737349A5535F28E0F4D9198) Technical service-L2
 
 # 📄 CV
 - [Download](https://pv4t-my.sharepoint.com/:b:/g/personal/jockerror_pv4t_onmicrosoft_com/EUFtBZe2vyRAs6gWc-yVn_sB70ryD8xN386ticIiR04nAQ?e=QVaEtw)
